@@ -7,3 +7,5 @@ Hubei Provincial Water Resources Department (https://slt.hubei.gov.cn/sjfb/).
 
 You can obtain the data by clicking the "江河水情" button on the page 
 or directly linking to http://113.57.190.228:8001/web/Report/RiverReport.
+
+***The data is for academic research only***
